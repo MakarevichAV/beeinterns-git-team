@@ -1,5 +1,6 @@
-# Epsilon Team
 Team slogan 
+
+Epsilon Team 
 
 ## Members:
 * Member 1
