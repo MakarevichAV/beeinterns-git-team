@@ -1,5 +1,5 @@
 # Team name
-Team slogan 
+Epsilon Team 
 
 ## Members:
 * Member 1
