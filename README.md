@@ -1,6 +1,5 @@
+# Epsilon Team
 Team slogan 
-
-Epsilon Team 
 
 ## Members:
 * Макаревич Александр (Team Lead)
