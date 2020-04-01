@@ -9,8 +9,8 @@ From dawn to dusk,
 We like to run and play.
 
 ## Members:
-* Макаревич Александр (Team Lead)
-* Мурдашева Надежда (Developer #1)
-* Полозов Илья (Developer #2)
-* Милевская Виктория (Developer #3)
-* Мильдзихов Олег (QA Engineer)
+* Makarevich Aleksandr (Team Lead)
+* Murdasheva Nadezda (Developer #1)
+* Polozov Ilya (Developer #2)
+* Milevskaya Viktoriya (Developer #3)
+* Mildzihov Oleg (QA Engineer)
